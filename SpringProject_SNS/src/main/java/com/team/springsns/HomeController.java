@@ -1,4 +1,4 @@
-package com.springteam.sns;
+package com.team.springsns;
 
 import java.text.DateFormat;
 import java.util.Date;
