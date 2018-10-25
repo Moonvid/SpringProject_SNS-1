@@ -9,7 +9,7 @@
 <body>
 	<%@ include file="/WEB-INF/views/team/header.jsp"%>
 	<%@ include file="/WEB-INF/views/team/right.jsp"%>
-
+	<%@ include file="/WEB-INF/views/board/boardList.jsp" %>
 
 
 </body>
